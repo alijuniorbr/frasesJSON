@@ -13,4 +13,4 @@ const obj = JSON.parse(<JSON_COPIADO>); // CONVERTENDO JSON NUM OBJETO JS
 console.log(`${obj[0].frase} - ${obj[0].autor}`);  //Os problemas são oportunidades para se mostrar o que sabe. - Duke Ellington
 ```
 
-### Contate-me no instagram: [@dev.matheusguerra](https://www.instagram.com/dev.matheusguerra/)
+### Contate-me no instagram: [@alijuniorbr](https://www.instagram.com/alijuniorbr/)
